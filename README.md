@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/spark-rpc-stream-unauth">spark-rpc-stream-unauth</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/spark-rpc-stream-unauth"><strong>https://abraxaslabs.tech/research/spark-rpc-stream-unauth</strong></a>
+</p>
+
 
 # spark-rpc-stream-unauth
 
